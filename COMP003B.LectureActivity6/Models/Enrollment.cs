@@ -1,6 +1,6 @@
 ﻿namespace COMP003B.LectureActivity6.Models
 {
-    public class Enrollments
+    public class Enrollment
     {
         public int Id { get; set; }
         public int StudentId { get; set; }
